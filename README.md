@@ -1,7 +1,4 @@
-mentors
-=======
-
-Building up the node community through mentoring
+*Building up the node community through mentoring*
 
 Mentors
 -------
