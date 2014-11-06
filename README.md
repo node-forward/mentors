@@ -4,6 +4,7 @@ Mentors
 -------
 - your name here as a mentor
 - your rad friend who has also decided to mentor  
+- [George Shank](https://github.com/taterbase) - Based out of Salt Lake City, UT. Happy to help with any questions, big or small.
   
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
