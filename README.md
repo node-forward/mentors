@@ -2,9 +2,9 @@
 
 Mentors
 -------
-- your name here as a mentor
-- your rad friend who has also decided to mentor  
-  
+- [Benjamin Lupton](http://balupton.com) [@balupton](https://github.com/balupton) - mentoring in Sydney for vegan food and shelter
+- Add your details here
+
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
 **Why mentor?**
