@@ -6,6 +6,7 @@ Mentors
 - your rad friend who has also decided to mentor  
 - [George Shank](https://github.com/taterbase) - Based out of Salt Lake City, UT. Happy to help with any questions, big or small.
 - [Jason Rhodes](https://github.com/jasonrhodes) - in Baltimore, MD. Also happy to help with questions, especially medium-sized ones.
+- [Matt Hernandez](https://github.com/fiveisprime) - in Cincinnati, OH. Ask me about designing and building Node.js apps and modules.
   
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
