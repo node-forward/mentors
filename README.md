@@ -8,6 +8,7 @@ Mentors
 - [Jason Rhodes](https://github.com/jasonrhodes) - in Baltimore, MD. Also happy to help with questions, especially medium-sized ones.
 - [Matt Hernandez](https://github.com/fiveisprime) - in Cincinnati, OH. Ask me about designing and building Node.js apps and modules.
 - [Charlie Robbins](https://github.com/indexzero) - based out of New York City. Send me all your questions in gists!
+- [Benjamin Lupton](http://balupton.com) [@balupton](https://github.com/balupton) - mentoring in Sydney for vegan food and shelter
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
