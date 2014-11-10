@@ -10,6 +10,7 @@ Mentors
 - [Charlie Robbins](https://github.com/indexzero) - based out of New York City. Send me all your questions in gists!
 - [Benjamin Lupton](http://balupton.com) [@balupton](https://github.com/balupton) - mentoring in Sydney for vegan food and shelter
 - [Mudit Ameta](https://github.com/zeusdeux) [@muditameta](https://twitter.com/muditameta) - Happy to help. If help is required in person in Bangalore, India, that can be arranged too. Just tweet at me to get things started. Happy hacking!
+- [Stephen Belanger](https://github.com/qard) [@stephenbelanger](https://twitter.com/stephenbelanger) qard on freenode - Vancouver, BC. I write instrumentation code, so I know lots about internals of things.
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
