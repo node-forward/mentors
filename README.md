@@ -13,6 +13,7 @@ Mentors
 - [Stephen Belanger](https://github.com/qard) [@stephenbelanger](https://twitter.com/stephenbelanger) qard on freenode - Vancouver, BC. I write instrumentation code, so I know lots about internals of things.
 - [Bryan English](https://github.com/bengl) [@bengl](https://twitter.com/bengl) - in SF Bay Area, CA. I currently focus on enterprise node things, but happy to help with anything.
 - [Ross Kukulinski](https://github.com/rosskukulinski) [@RossKukulinski](https://twitter.com/rosskukulinski) - Online or in-person mentoring and help with Node/DevOps. I <3 coffee and beer.  Based in Menlo Park, CA, USA.
+- [Todd Kennedy](https://github.com/toddself) [@whale_eat_squid](https://twitter.com/whale_eat_squid), toddself on freenode. Happy to try to help with anything!
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
