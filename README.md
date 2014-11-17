@@ -26,6 +26,7 @@ Mentors
 - [Julian Gruber](https://github.com/juliangruber) [@juliangruber](https://twitter.com/juliangruber) - based in southern Germany, happy to help with anything javascript, node, npm, browserify and leveldb.
 - [Yiyu He](https://github.com/dead-horse) [@deadhorse_busi](https://twitter.com/deadhorse_busi) - based in Hangzhou, China. Happy to help with anything online or offline.
 - [Jonathan Ong](https://github.com/jonathanong) [@jongleberry](https://twitter.com/jongleberry) - based in West LA, CA. Happy to talk about anything web-dev related!
+- [Adam Brady](https://github.com/SomeoneWeird) [@adam__brady](http://twitter.com/adam__brady) - Based in Melbourne, Aus. Happy to help with anything, specialise in security.
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
