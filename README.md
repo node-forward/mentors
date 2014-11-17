@@ -18,6 +18,7 @@ Mentors
 - [Todd Kennedy](https://github.com/toddself) [@whale_eat_squid](https://twitter.com/whale_eat_squid), toddself on freenode. Happy to try to help with anything!
 - [Darren DeRidder](https://github.com/darrenderidder) [@ottawa_js](https://twitter.com/ottawa_js) - organizer of Ottawa JavaScript meetup, based in Ottawa, Ontario, Canada.
 - [Yoshua Wuyts](https://github.com/yoshuawuyts) [@yoshuawuyts](https://twitter.com/yoshuawuyts) - based in Amsterdam. Happy to help with anything!
+- [Matteo Collina](https://github.com/mcollina] [@matteocollina](https://twitter.com/matteocollina) - based in Italy and helping out italian-speaking node newbies.
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
