@@ -20,6 +20,7 @@ Mentors
 - [Darren DeRidder](https://github.com/darrenderidder) [@ottawa_js](https://twitter.com/ottawa_js) - organizer of Ottawa JavaScript meetup, based in Ottawa, Ontario, Canada.
 - [Yoshua Wuyts](https://github.com/yoshuawuyts) [@yoshuawuyts](https://twitter.com/yoshuawuyts) - based in Amsterdam. Happy to help with anything!
 - [Matteo Collina](https://github.com/mcollina) [@matteocollina](https://twitter.com/matteocollina) - based in Italy and helping out italian-speaking node newbies.
+- [Gabriele Di Stefano](https://github.com/gabrieleds) - based in Amsterdam, mentoring for beers ;-) and nice people.
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
