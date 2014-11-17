@@ -21,6 +21,7 @@ Mentors
 - [Yoshua Wuyts](https://github.com/yoshuawuyts) [@yoshuawuyts](https://twitter.com/yoshuawuyts) - based in Amsterdam. Happy to help with anything!
 - [Matteo Collina](https://github.com/mcollina) [@matteocollina](https://twitter.com/matteocollina) - based in Italy and helping out italian-speaking node newbies.
 - [Gabriele Di Stefano](https://github.com/gabrieleds) - based in Amsterdam, mentoring for beers ;-) and nice people.
+- [Nikos Gereoudakis](https://github.com/stream7) [@ni_ger](https://twitter.com/ni_ger) - based in Athens, Greece. Happy to help online or offline.
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
