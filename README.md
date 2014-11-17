@@ -23,6 +23,7 @@ Mentors
 - [Gabriele Di Stefano](https://github.com/gabrieleds) - based in Amsterdam, mentoring for beers ;-) and nice people.
 - [Nikos Gereoudakis](https://github.com/stream7) [@ni_ger](https://twitter.com/ni_ger) - based in Athens, Greece. Happy to help online or offline.
 - [Hugh Kennedy](http://github.com/hughsk) [@hughskennedy](http://twitter.com/hughskennedy) - based in Amsterdam. Primarily frontend these days and happy to help out with npm, browserify and node-powered frontend tooling.
+- [Julian Gruber](https://github.com/juliangruber) [@juliangruber](https://twitter.com/juliangruber) - based in southern Germany, happy to help with anything javascript, node, npm, browserify and leveldb.
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
