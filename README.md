@@ -25,6 +25,7 @@ Mentors
 - [Hugh Kennedy](http://github.com/hughsk) [@hughskennedy](http://twitter.com/hughskennedy) - based in Amsterdam. Primarily frontend these days and happy to help out with npm, browserify and node-powered frontend tooling.
 - [Julian Gruber](https://github.com/juliangruber) [@juliangruber](https://twitter.com/juliangruber) - based in southern Germany, happy to help with anything javascript, node, npm, browserify and leveldb.
 - [Yiyu He](https://github.com/dead-horse) [@deadhorse_busi](https://twitter.com/deadhorse_busi) - based in Hangzhou, China. Happy to help with anything online or offline.
+- [Jonathan Ong](https://github.com/jonathanong) [@jongleberry](https://twitter.com/jongleberry) - based in West LA, CA. Happy to talk about anything web-dev related!
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
