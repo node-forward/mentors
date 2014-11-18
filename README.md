@@ -4,6 +4,7 @@ Mentors
 -------
 - your name here as a mentor
 - your rad friend who has also decided to mentor
+
 - [Mathias Buus](https://github.com/mafintosh) [@mafintosh](https://twitter.com/mafintosh) - in Copenhagen, Denmark. Ping me if you are in the area or just wanna talk node.
 - [George Shank](https://github.com/taterbase) - Based out of Salt Lake City, UT. Happy to help with any questions, big or small.
 - [Trent Oswald](https://github.com/therebelrobot) [@therebelrobot](https://twitter.com/therebelrobot), Based in Orem/Provo UT, Co-organizer of [Utah Node Ninjas](http://utahnode.ninja). I normally assist with Node basics and application structuring. Shoot me a message/tweet/carrier pidgeon, I'm happy to assist!
@@ -27,6 +28,7 @@ Mentors
 - [Yiyu He](https://github.com/dead-horse) [@deadhorse_busi](https://twitter.com/deadhorse_busi) - based in Hangzhou, China. Happy to help with anything online or offline.
 - [Jonathan Ong](https://github.com/jonathanong) [@jongleberry](https://twitter.com/jongleberry) - based in West LA, CA. Happy to talk about anything web-dev related!
 - [Adam Brady](https://github.com/SomeoneWeird) [@adam__brady](http://twitter.com/adam__brady) - Based in Melbourne, Aus. Happy to help with anything, specialise in security.
+- [Hemanth HM](http://github.com/hemanth) [@gnumanth](https://twitter.com/gnumanth) - Based in Bangalore, I'm happy to help.
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
