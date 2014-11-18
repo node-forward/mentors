@@ -29,6 +29,7 @@ Mentors
 - [Jonathan Ong](https://github.com/jonathanong) [@jongleberry](https://twitter.com/jongleberry) - based in West LA, CA. Happy to talk about anything web-dev related!
 - [Adam Brady](https://github.com/SomeoneWeird) [@adam__brady](http://twitter.com/adam__brady) - Based in Melbourne, Aus. Happy to help with anything, specialise in security.
 - [Hemanth HM](http://github.com/hemanth) [@gnumanth](https://twitter.com/gnumanth) - Based in Bangalore, I'm happy to help.
+- [Suroor Wijdan](http://github.com/suroorwijdan) [@wotthetech](https://twitter.com/wotthetech) - Based in New Delhi, India. Happy to discuss and help with anything.
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
