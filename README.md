@@ -30,6 +30,7 @@ Mentors
 - [Adam Brady](https://github.com/SomeoneWeird) [@adam__brady](http://twitter.com/adam__brady) - Based in Melbourne, Aus. Happy to help with anything, specialise in security.
 - [Hemanth HM](http://github.com/hemanth) [@gnumanth](https://twitter.com/gnumanth) - Based in Bangalore, I'm happy to help.
 - [Suroor Wijdan](http://github.com/suroorwijdan) [@wotthetech](https://twitter.com/wotthetech) - Based in New Delhi, India. Happy to discuss and help with anything.
+- [Alejandro Oviedo](http://github.com/a0viedo) [@a0viedo](https://twitter.com/a0viedo) - Based in Buenos Aires, Argentina. Send me all your questions!
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
