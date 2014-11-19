@@ -1,18 +1,18 @@
-# Node Mentors
+# Node Mentoring Program
 
-Building up the node community through mentoring
+_Building up the node community through mentoring_
 
-_Why would I want a mentor?_
+##### Why would I want a mentor?
 
 Are you just learning node, or looking to get started? Have you been struggling with something node-related for a while and not sure where to go next? Mentors can help! 
 
 Mentors can be awesome encouragement when learning gets rough. We're knowledgable, nice, and we want to help you steer through the uncharted waters of code and community.
 
-_How is this different than Stack Overflow?_
+##### How is this different than Stack Overflow?
 
 The idea is to provide more personal, specific support and hopefully develop healthy mentoring relationships rather than just a quick question/answer exchange. We're figuring it out as we go so tell us what's working and what's not by filing an issue on this repo!
 
-_OK so what do I do?_
+##### OK so what do I do?
 
 Three options:
 
@@ -23,9 +23,7 @@ Three options:
 3. `<less public method tbd>` coming soon...
 
 
-
-Want to help mentor some people?
---------------------------------
+## Want to help mentor some people?
 
 Submit a pull request to this repo adding your name and info to the list below, and make sure you watch this repo and [the gitter channel](https://gitter.im/node-forward/mentors) for questions!
 
