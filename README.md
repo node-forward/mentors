@@ -1,9 +1,31 @@
 *Building up the node community through mentoring*
 
-Mentors
--------
-- your name here as a mentor
-- your rad friend who has also decided to mentor
+_Why would I want a mentor?_
+
+Are you just learning node, or looking to get started? Have you been struggling with something node-related for a while and not sure where to go next? Mentors can help! Mentors can be awesome encouragement when learning gets rough. We're knowledgable, nice, and we want to help you steer through the uncharted waters of code and community.
+
+_How is this different than Stack Overflow?_
+
+The idea is to provide more personal, specific support and hopefully develop healthy mentoring relationships rather than just a quick question/answer exchange. We're figuring it out as we go so tell us what's working and what's not by filing an issue on this repo!
+
+_OK so what do I do?_
+
+Three options:
+
+1. File an issue [here on the GitHub issue queue](https://github.com/node-forward/mentors/issues) and explain a problem you're having, some questions you have, etc. Make sure you note things like the language you speak, your location, or anything else you think matters to the mentor who will ultimately respond and begin to work with you.
+
+2. Ask a question on [our Gitter channel](https://gitter.im/node-forward/mentors) --a chat room that uses your GitHub login as your user account. We'll be watching that channel and responding there, hoping to pair up as we find good matches.
+
+3. <less public method tbd> coming soon...
+
+
+
+Want to help mentor some people?
+--------------------------------
+
+Submit a pull request to this repo adding your name and info to the list below, and make sure you watch this repo and [the gitter channel](https://gitter.im/node-forward/mentors) for questions!
+
+### Current Mentor List
 
 - [Mathias Buus](https://github.com/mafintosh) [@mafintosh](https://twitter.com/mafintosh) - in Copenhagen, Denmark. Ping me if you are in the area or just wanna talk node.
 - [George Shank](https://github.com/taterbase) - Based out of Salt Lake City, UT. Happy to help with any questions, big or small.
@@ -33,9 +55,3 @@ Mentors
 - [Alejandro Oviedo](http://github.com/a0viedo) [@a0viedo](https://twitter.com/a0viedo) - Based in Buenos Aires, Argentina. Send me all your questions!
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
-
-**Why mentor?**
-Interested in helping raise up your fellow developers in the node community? What better way to do it than to mentor? Watch this repo, join the conversation on [gitter](https://gitter.im/node-forward/mentors). Once you've decided you've got some heart and time to dedicate to this project, send a PR to the README.md
-
-**Why seek out a mentor?**
-Mentors are awesome encouragement when the coding gets rough. They are knowledgable and will help you steer through the murky waters of code, code committing, and community.  We're happy to chat all about this in [gitter](https://gitter.im/node-forward/mentors) too. Come say hi!
