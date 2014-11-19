@@ -7,7 +7,6 @@ Mentors
 
 - [Mathias Buus](https://github.com/mafintosh) [@mafintosh](https://twitter.com/mafintosh) - in Copenhagen, Denmark. Ping me if you are in the area or just wanna talk node.
 - [George Shank](https://github.com/taterbase) - Based out of Salt Lake City, UT. Happy to help with any questions, big or small.
-- [Trent Oswald](https://github.com/therebelrobot) [@therebelrobot](https://twitter.com/therebelrobot), Based in Orem/Provo UT, Co-organizer of [Utah Node Ninjas](http://utahnode.ninja). I normally assist with Node basics and application structuring. Shoot me a message/tweet/carrier pidgeon, I'm happy to assist!
 - [Jason Rhodes](https://github.com/jasonrhodes) - in Baltimore, MD. Also happy to help with questions, especially medium-sized ones.
 - [Matt Hernandez](https://github.com/fiveisprime) - in Cincinnati, OH. Ask me about designing and building Node.js apps and modules.
 - [Charlie Robbins](https://github.com/indexzero) - based out of New York City. Send me all your questions in gists!
