@@ -1,8 +1,12 @@
-*Building up the node community through mentoring*
+# Node Mentors
+
+Building up the node community through mentoring
 
 _Why would I want a mentor?_
 
-Are you just learning node, or looking to get started? Have you been struggling with something node-related for a while and not sure where to go next? Mentors can help! Mentors can be awesome encouragement when learning gets rough. We're knowledgable, nice, and we want to help you steer through the uncharted waters of code and community.
+Are you just learning node, or looking to get started? Have you been struggling with something node-related for a while and not sure where to go next? Mentors can help! 
+
+Mentors can be awesome encouragement when learning gets rough. We're knowledgable, nice, and we want to help you steer through the uncharted waters of code and community.
 
 _How is this different than Stack Overflow?_
 
@@ -16,7 +20,7 @@ Three options:
 
 2. Ask a question on [our Gitter channel](https://gitter.im/node-forward/mentors) --a chat room that uses your GitHub login as your user account. We'll be watching that channel and responding there, hoping to pair up as we find good matches.
 
-3. <less public method tbd> coming soon...
+3. `<less public method tbd>` coming soon...
 
 
 
@@ -47,7 +51,7 @@ Submit a pull request to this repo adding your name and info to the list below, 
 - [Nikos Gereoudakis](https://github.com/stream7) [@ni_ger](https://twitter.com/ni_ger) - based in Athens, Greece. Happy to help online or offline.
 - [Hugh Kennedy](http://github.com/hughsk) [@hughskennedy](http://twitter.com/hughskennedy) - based in Amsterdam. Primarily frontend these days and happy to help out with npm, browserify and node-powered frontend tooling.
 - [Julian Gruber](https://github.com/juliangruber) [@juliangruber](https://twitter.com/juliangruber) - based in southern Germany, happy to help with anything javascript, node, npm, browserify and leveldb.
-- [Yiyu He](https://github.com/dead-horse) [@deadhorse_busi](https://twitter.com/deadhorse_busi) - based in Hangzhou, China. Happy to help with anything online or offline.
+- [Yiyu He](https://github.com/dead-horse) [@deadhorse_busi](https://twitter.com/deadhorse_busi) - based in Hangzhou, China. Happy to help with anything online or offline.gi
 - [Jonathan Ong](https://github.com/jonathanong) [@jongleberry](https://twitter.com/jongleberry) - based in West LA, CA. Happy to talk about anything web-dev related!
 - [Adam Brady](https://github.com/SomeoneWeird) [@adam__brady](http://twitter.com/adam__brady) - Based in Melbourne, Aus. Happy to help with anything, specialise in security.
 - [Hemanth HM](http://github.com/hemanth) [@gnumanth](https://twitter.com/gnumanth) - Based in Bangalore, I'm happy to help.
