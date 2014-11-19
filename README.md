@@ -32,6 +32,7 @@ Mentors
 - [Suroor Wijdan](http://github.com/suroorwijdan) [@wotthetech](https://twitter.com/wotthetech) - Based in New Delhi, India. Happy to discuss and help with anything.
 - [Alejandro Oviedo](http://github.com/a0viedo) [@a0viedo](https://twitter.com/a0viedo) - Based in Buenos Aires, Argentina. Send me all your questions!
 - [Kushal Likhi](http://github.com/kushal-likhi) [@KushalLikhi](https://twitter.com/KushalLikhi) - Based in New Delhi, India. Feel free to ping or cantact anytime if you need any help. If in Delhi/NCR we can meet over drinks and discuss too. Co-Organizer of [NodeSchool-Delhi/NCR](http://nodeschool.io/Delhi-NCR/), come be a part and let the knowledge flow.
+- [Richard Key](https://github.com/busyrich) [@busyrich](https://twitter.com/busyrich) - in Tucson, AZ. I can "mentor" anything Node or JavaScript.
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
