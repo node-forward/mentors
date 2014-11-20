@@ -35,6 +35,8 @@ Mentors
 - [Richard Key](https://github.com/busyrich) [@busyrich](https://twitter.com/busyrich) - in Tucson, AZ. I can "mentor" anything Node or JavaScript.
 - [Gergely Nemeth](https://github.com/gergelyke) [@gergelyke](https://twitter.com/nthgergo) - in Budapest, Hungary. Ping me if you are in the area or just wanna talk node.
 
+- [Hengki Sihombing](https://github.com/aredo) [@hengkiado](https://twitter.com/hengkiado) - Base in Jakarta, Indonesia. Oganizer of [JakartaJS](www.meetup.com/JakartaJS) meetup. I'm happy to help anything about Node or JavaScript.
+
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
 **Why mentor?**
