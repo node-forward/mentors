@@ -63,5 +63,6 @@ Submit a pull request to this repo adding your name and info to the list below, 
 - [Maurice Butler](https://github.com/MauriceButler) [@butlermaurice](https://twitter.com/butlermaurice) - Based in Brisbane, Australia. Happy to help out with anything Node or JavaScript in general.
 - [Hengki Sihombing](https://github.com/aredo) [@hengkiado](https://twitter.com/hengkiado) - Base in Jakarta, Indonesia. Oganizer of [JakartaJS](www.meetup.com/JakartaJS) meetup. I'm happy to help anything about Node or JavaScript.
 - [Xiuyu Li](https://github.com/nickleefly) [@nickleefly](https://twitter.com/nickleefly) - Based in Shanghai, China. Happy to help anything web
+- [Max Gfeller](https://github.com/MaxGfeller) [@mgfeller](https://twitter.com/mgfeller) - in Basel, Switzerland. Happy to discuss anything JavaScript and help beginners getting started with node + browserify.
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
