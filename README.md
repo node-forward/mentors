@@ -66,4 +66,6 @@ Submit a pull request to this repo adding your name and info to the list below, 
 - [Max Gfeller](https://github.com/MaxGfeller) [@mgfeller](https://twitter.com/mgfeller) - in Basel, Switzerland. Happy to discuss anything JavaScript and help beginners getting started with node + browserify.
 - [Stefan Buck](https://github.com/stefanbuck) [@buckstefan](https://twitter.com/buckstefan) - Based in Stutgart, Germany. Happy to help with Node.js tooling like Yeoman, Grunt, Gulp ... 
 
+- [Sahil Chitkara](https://github.com/sahilchitkara) [@sahilchitkara](https://twitter.com/sahilchitkara) - in India.Happy to help and discuss with anything in JS. Co-Organizer of [NodeSchool-Delhi/NCR](http://nodeschool.io/Delhi-NCR/). Awesomeness lies in open source.
+
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
