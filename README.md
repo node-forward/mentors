@@ -38,7 +38,7 @@ Mentors
 
 - [Hengki Sihombing](https://github.com/aredo) [@hengkiado](https://twitter.com/hengkiado) - Base in Jakarta, Indonesia. Oganizer of [JakartaJS](www.meetup.com/JakartaJS) meetup. I'm happy to help anything about Node or JavaScript.
 
-- [Sahil Chitkara](https://github.com/sahilchitkara) [@sahilchitkara](https://twitter.com/sahilchitkara) - in India.Happy to help and discuss with anything in JS. Co-Organizer of [NodeSchool-Delhi/NCR](http://nodeschool.io/Delhi-NCR/). Awesomness lies in open source.
+- [Sahil Chitkara](https://github.com/sahilchitkara) [@sahilchitkara](https://twitter.com/sahilchitkara) - in India.Happy to help and discuss with anything in JS. Co-Organizer of [NodeSchool-Delhi/NCR](http://nodeschool.io/Delhi-NCR/). Awesomeness lies in open source.
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
