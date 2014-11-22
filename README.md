@@ -1,9 +1,33 @@
-*Building up the node community through mentoring*
+# Node Mentoring Program
 
-Mentors
--------
-- your name here as a mentor
-- your rad friend who has also decided to mentor
+_Building up the node community through mentoring_
+
+##### Why would I want a mentor?
+
+Are you just learning node, or looking to get started? Have you been struggling with something node-related for a while and not sure where to go next? Mentors can help! 
+
+Mentors can be awesome encouragement when learning gets rough. We're knowledgable, nice, and we want to help you steer through the uncharted waters of code and community.
+
+##### How is this different than Stack Overflow?
+
+The idea is to provide more personal, specific support and hopefully develop healthy mentoring relationships rather than just a quick question/answer exchange. We're figuring it out as we go so tell us what's working and what's not by filing an issue on this repo!
+
+##### OK so what do I do?
+
+Three options:
+
+1. File an issue [here on the GitHub issue queue](https://github.com/node-forward/mentors/issues) and explain a problem you're having, some questions you have, etc. Make sure you note things like the language you speak, your location, or anything else you think matters to the mentor who will ultimately respond and begin to work with you.
+
+2. Ask a question on [our Gitter channel](https://gitter.im/node-forward/mentors) --a chat room that uses your GitHub login as your user account. We'll be watching that channel and responding there, hoping to pair up as we find good matches.
+
+3. `<less public method tbd>` coming soon...
+
+
+## Want to help mentor some people?
+
+Submit a pull request to this repo adding your name and info to the list below, and make sure you watch this repo and [the gitter channel](https://gitter.im/node-forward/mentors) for questions!
+
+### Current Mentor List
 
 - [Mathias Buus](https://github.com/mafintosh) [@mafintosh](https://twitter.com/mafintosh) - in Copenhagen, Denmark. Ping me if you are in the area or just wanna talk node.
 - [George Shank](https://github.com/taterbase) - Based out of Salt Lake City, UT. Happy to help with any questions, big or small.
@@ -25,7 +49,7 @@ Mentors
 - [Nikos Gereoudakis](https://github.com/stream7) [@ni_ger](https://twitter.com/ni_ger) - based in Athens, Greece. Happy to help online or offline.
 - [Hugh Kennedy](http://github.com/hughsk) [@hughskennedy](http://twitter.com/hughskennedy) - based in Amsterdam. Primarily frontend these days and happy to help out with npm, browserify and node-powered frontend tooling.
 - [Julian Gruber](https://github.com/juliangruber) [@juliangruber](https://twitter.com/juliangruber) - based in southern Germany, happy to help with anything javascript, node, npm, browserify and leveldb.
-- [Yiyu He](https://github.com/dead-horse) [@deadhorse_busi](https://twitter.com/deadhorse_busi) - based in Hangzhou, China. Happy to help with anything online or offline.
+- [Yiyu He](https://github.com/dead-horse) [@deadhorse_busi](https://twitter.com/deadhorse_busi) - based in Hangzhou, China. Happy to help with anything online or offline.gi
 - [Jonathan Ong](https://github.com/jonathanong) [@jongleberry](https://twitter.com/jongleberry) - based in West LA, CA. Happy to talk about anything web-dev related!
 - [Adam Brady](https://github.com/SomeoneWeird) [@adam__brady](http://twitter.com/adam__brady) - Based in Melbourne, Aus. Happy to help with anything, specialise in security.
 - [Hemanth HM](http://github.com/hemanth) [@gnumanth](https://twitter.com/gnumanth) - Based in Bangalore, I'm happy to help.
@@ -35,13 +59,7 @@ Mentors
 - [Richard Key](https://github.com/busyrich) [@busyrich](https://twitter.com/busyrich) - in Tucson, AZ. I can "mentor" anything Node or JavaScript.
 - [Gergely Nemeth](https://github.com/gergelyke) [@gergelyke](https://twitter.com/nthgergo) - in Budapest, Hungary. Ping me if you are in the area or just wanna talk node.
 - [Phillip Johnsen](https://github.com/phillipj) [@phillipjohnsen](https://twitter.com/phillipjohnsen) - in Oslo, Norway. Happy to help anyone getting started with node.
-
 - [Hengki Sihombing](https://github.com/aredo) [@hengkiado](https://twitter.com/hengkiado) - Base in Jakarta, Indonesia. Oganizer of [JakartaJS](www.meetup.com/JakartaJS) meetup. I'm happy to help anything about Node or JavaScript.
+- [Xiuyu Li](https://github.com/nickleefly) [@nickleefly](https://twitter.com/nickleefly) - Based in Shanghai, China. Happy to help anything web
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
-
-**Why mentor?**
-Interested in helping raise up your fellow developers in the node community? What better way to do it than to mentor? Watch this repo, join the conversation on [gitter](https://gitter.im/node-forward/mentors). Once you've decided you've got some heart and time to dedicate to this project, send a PR to the README.md
-
-**Why seek out a mentor?**
-Mentors are awesome encouragement when the coding gets rough. They are knowledgable and will help you steer through the murky waters of code, code committing, and community.  We're happy to chat all about this in [gitter](https://gitter.im/node-forward/mentors) too. Come say hi!
