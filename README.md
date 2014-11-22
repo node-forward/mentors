@@ -40,6 +40,7 @@ We'd like mentors to fill out [the same form])(/#) and we'll get you added to th
 - [Mudit Ameta](https://github.com/zeusdeux) [@muditameta](https://twitter.com/muditameta) - Happy to help. If help is required in person in Bangalore, India, that can be arranged too. Just tweet at me to get things started. Happy hacking!
 - [Stephen Belanger](https://github.com/qard) [@stephenbelanger](https://twitter.com/stephenbelanger) qard on freenode - Vancouver, BC. I write instrumentation code, so I know lots about internals of things.
 - [Bryan English](https://github.com/bengl) [@bengl](https://twitter.com/bengl) - in SF Bay Area, CA. I currently focus on enterprise node things, but happy to help with anything.
+- [David Trejo](https://github.com/DTrejo) [dtrejo.com](http://dtrejo.com) [@ddtrejo](http://twitter.com/ddtrejo) - ask me about consulting & node & js & prototyping! Based in SF Bay Area, CA.
 - [Ross Kukulinski](https://github.com/rosskukulinski) [@RossKukulinski](https://twitter.com/rosskukulinski) - Online or in-person mentoring and help with Node/DevOps. I <3 coffee and beer.  Based in Menlo Park, CA, USA.
 - [Henry Allen-Tilford](https://github.com/generalhenry) [@generalhenry](https://twitter.com/generalhenry) - Based in Redwood City, CA, USA
 - [Todd Kennedy](https://github.com/toddself) [@whale_eat_squid](https://twitter.com/whale_eat_squid), toddself on freenode. Happy to try to help with anything!
@@ -56,4 +57,12 @@ We'd like mentors to fill out [the same form])(/#) and we'll get you added to th
 - [Hemanth HM](http://github.com/hemanth) [@gnumanth](https://twitter.com/gnumanth) - Based in Bangalore, I'm happy to help.
 - [Suroor Wijdan](http://github.com/suroorwijdan) [@wotthetech](https://twitter.com/wotthetech) - Based in New Delhi, India. Happy to discuss and help with anything.
 - [Alejandro Oviedo](http://github.com/a0viedo) [@a0viedo](https://twitter.com/a0viedo) - Based in Buenos Aires, Argentina. Send me all your questions!
+- [Kushal Likhi](http://github.com/kushal-likhi) [@KushalLikhi](https://twitter.com/KushalLikhi) - Based in New Delhi, India. Feel free to ping or cantact anytime if you need any help. If in Delhi/NCR we can meet over drinks and discuss too. Co-Organizer of [NodeSchool-Delhi/NCR](http://nodeschool.io/Delhi-NCR/), come be a part and let the knowledge flow.
+- [Richard Key](https://github.com/busyrich) [@busyrich](https://twitter.com/busyrich) - in Tucson, AZ. I can "mentor" anything Node or JavaScript.
+- [Gergely Nemeth](https://github.com/gergelyke) [@gergelyke](https://twitter.com/nthgergo) - in Budapest, Hungary. Ping me if you are in the area or just wanna talk node.
+- [Phillip Johnsen](https://github.com/phillipj) [@phillipjohnsen](https://twitter.com/phillipjohnsen) - in Oslo, Norway. Happy to help anyone getting started with node.
+- [Maurice Butler](https://github.com/MauriceButler) [@butlermaurice](https://twitter.com/butlermaurice) - Based in Brisbane, Australia. Happy to help out with anything Node or JavaScript in general.
+- [Hengki Sihombing](https://github.com/aredo) [@hengkiado](https://twitter.com/hengkiado) - Base in Jakarta, Indonesia. Oganizer of [JakartaJS](www.meetup.com/JakartaJS) meetup. I'm happy to help anything about Node or JavaScript.
+- [Xiuyu Li](https://github.com/nickleefly) [@nickleefly](https://twitter.com/nickleefly) - Based in Shanghai, China. Happy to help anything web
 
+![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
