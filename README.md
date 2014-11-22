@@ -39,6 +39,7 @@ Submit a pull request to this repo adding your name and info to the list below, 
 - [Mudit Ameta](https://github.com/zeusdeux) [@muditameta](https://twitter.com/muditameta) - Happy to help. If help is required in person in Bangalore, India, that can be arranged too. Just tweet at me to get things started. Happy hacking!
 - [Stephen Belanger](https://github.com/qard) [@stephenbelanger](https://twitter.com/stephenbelanger) qard on freenode - Vancouver, BC. I write instrumentation code, so I know lots about internals of things.
 - [Bryan English](https://github.com/bengl) [@bengl](https://twitter.com/bengl) - in SF Bay Area, CA. I currently focus on enterprise node things, but happy to help with anything.
+- [David Trejo](https://github.com/DTrejo) [dtrejo.com](http://dtrejo.com) [@ddtrejo](http://twitter.com/ddtrejo) - ask me about consulting & node & js & prototyping! Based in SF Bay Area, CA.
 - [Ross Kukulinski](https://github.com/rosskukulinski) [@RossKukulinski](https://twitter.com/rosskukulinski) - Online or in-person mentoring and help with Node/DevOps. I <3 coffee and beer.  Based in Menlo Park, CA, USA.
 - [Henry Allen-Tilford](https://github.com/generalhenry) [@generalhenry](https://twitter.com/generalhenry) - Based in Redwood City, CA, USA
 - [Todd Kennedy](https://github.com/toddself) [@whale_eat_squid](https://twitter.com/whale_eat_squid), toddself on freenode. Happy to try to help with anything!
@@ -59,6 +60,7 @@ Submit a pull request to this repo adding your name and info to the list below, 
 - [Richard Key](https://github.com/busyrich) [@busyrich](https://twitter.com/busyrich) - in Tucson, AZ. I can "mentor" anything Node or JavaScript.
 - [Gergely Nemeth](https://github.com/gergelyke) [@gergelyke](https://twitter.com/nthgergo) - in Budapest, Hungary. Ping me if you are in the area or just wanna talk node.
 - [Phillip Johnsen](https://github.com/phillipj) [@phillipjohnsen](https://twitter.com/phillipjohnsen) - in Oslo, Norway. Happy to help anyone getting started with node.
+- [Maurice Butler](https://github.com/MauriceButler) [@butlermaurice](https://twitter.com/butlermaurice) - Based in Brisbane, Australia. Happy to help out with anything Node or JavaScript in general.
 - [Hengki Sihombing](https://github.com/aredo) [@hengkiado](https://twitter.com/hengkiado) - Base in Jakarta, Indonesia. Oganizer of [JakartaJS](www.meetup.com/JakartaJS) meetup. I'm happy to help anything about Node or JavaScript.
 - [Xiuyu Li](https://github.com/nickleefly) [@nickleefly](https://twitter.com/nickleefly) - Based in Shanghai, China. Happy to help anything web
 
