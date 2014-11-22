@@ -2,6 +2,8 @@
 
 _Building up the node community through mentoring_
 
+![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
+
 ##### Why would I want a mentor?
 
 Are you just learning node, or looking to get started? Have you been struggling with something node-related for a while and not sure where to go next? Mentors can help! 
@@ -14,18 +16,17 @@ The idea is to provide more personal, specific support and hopefully develop hea
 
 ##### OK so what do I do?
 
-Three options:
+Fill out our short form so we can match you up with a mentor:  
+`<form url>`
 
-1. File an issue [here on the GitHub issue queue](https://github.com/node-forward/mentors/issues) and explain a problem you're having, some questions you have, etc. Make sure you note things like the language you speak, your location, or anything else you think matters to the mentor who will ultimately respond and begin to work with you.
-
-2. Ask a question on [our Gitter channel](https://gitter.im/node-forward/mentors) --a chat room that uses your GitHub login as your user account. We'll be watching that channel and responding there, hoping to pair up as we find good matches.
-
-3. `<less public method tbd>` coming soon...
+_Have a more general question about mentoring? You can always ask a question on [our Gitter channel](https://gitter.im/node-forward/mentors) or file an issue [on the GitHub issue queue](https://github.com/node-forward/mentors/issues)_
 
 
 ## Want to help mentor some people?
 
-Submit a pull request to this repo adding your name and info to the list below, and make sure you watch this repo and [the gitter channel](https://gitter.im/node-forward/mentors) for questions!
+We'd like mentors to fill out [the same form])(/#) and we'll get you added to the list. We're still working out how to manage and display that list, but stay tuned for more details. 
+
+*You can always watch this repo and [the gitter channel](https://gitter.im/node-forward/mentors) for updates and to follow along with the conversation.
 
 ### Current Mentor List
 
@@ -56,4 +57,3 @@ Submit a pull request to this repo adding your name and info to the list below, 
 - [Suroor Wijdan](http://github.com/suroorwijdan) [@wotthetech](https://twitter.com/wotthetech) - Based in New Delhi, India. Happy to discuss and help with anything.
 - [Alejandro Oviedo](http://github.com/a0viedo) [@a0viedo](https://twitter.com/a0viedo) - Based in Buenos Aires, Argentina. Send me all your questions!
 
-![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
