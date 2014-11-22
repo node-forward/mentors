@@ -24,9 +24,9 @@ _Have a more general question about mentoring? You can always ask a question on 
 
 ## Want to help mentor some people?
 
-We'd like mentors to fill out [the same form])(/#) and we'll get you added to the list. We're still working out how to manage and display that list, but stay tuned for more details. 
+We'd like mentors to fill out [the same form])(/#) and then submit a pull request to this repo adding your name and info to this README. We're still working out how to manage and display that list, so stay tuned for more details. (See: https://github/node-forward/issues/49)
 
-*You can always watch this repo and [the gitter channel](https://gitter.im/node-forward/mentors) for updates and to follow along with the conversation.
+*You can always watch this repo and [the gitter channel](https://gitter.im/node-forward/mentors) for updates and to follow along with the overall mentoring conversation.
 
 ### Current Mentor List
 
