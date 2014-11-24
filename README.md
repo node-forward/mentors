@@ -1,6 +1,6 @@
 # Node Mentoring Program
 
-_Building up the node community through mentoring_
+_Building up the node community through mentoring... tl;dr? [Fill out this form](https://docs.google.com/forms/d/12OC7RgjoBvypP1HA2yBVgG31OdCSRbW4sXHMaZec0Jo/viewform) to sign up as a mentor or mentee._
 
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
@@ -65,7 +65,4 @@ We'd like mentors to fill out [the same form](https://docs.google.com/forms/d/12
 - [Xiuyu Li](https://github.com/nickleefly) [@nickleefly](https://twitter.com/nickleefly) - Based in Shanghai, China. Happy to help anything web
 - [Max Gfeller](https://github.com/MaxGfeller) [@mgfeller](https://twitter.com/mgfeller) - in Basel, Switzerland. Happy to discuss anything JavaScript and help beginners getting started with node + browserify.
 - [Stefan Buck](https://github.com/stefanbuck) [@buckstefan](https://twitter.com/buckstefan) - Based in Stutgart, Germany. Happy to help with Node.js tooling like Yeoman, Grunt, Gulp ... 
-
 - [Sahil Chitkara](https://github.com/sahilchitkara) [@sahilchitkara](https://twitter.com/sahilchitkara) - in India.Happy to help and discuss with anything in JS. Co-Organizer of [NodeSchool-Delhi/NCR](http://nodeschool.io/Delhi-NCR/). Awesomeness lies in open source.
-
-![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
