@@ -16,15 +16,14 @@ The idea is to provide more personal, specific support and hopefully develop hea
 
 ##### OK so what do I do?
 
-Fill out our short form so we can match you up with a mentor:  
-`<form url>`
+[Fill out our short mentorship form](https://docs.google.com/forms/d/12OC7RgjoBvypP1HA2yBVgG31OdCSRbW4sXHMaZec0Jo/viewform) so we can match you up with a mentor.
 
 _Have a more general question about mentoring? You can always ask a question on [our Gitter channel](https://gitter.im/node-forward/mentors) or file an issue [on the GitHub issue queue](https://github.com/node-forward/mentors/issues)_
 
 
 ## Want to help mentor some people?
 
-We'd like mentors to fill out [the same form])(/#) and then submit a pull request to this repo adding your name and info to this README. We're still working out how to manage and display that list, so stay tuned for more details. (See: https://github/node-forward/issues/49)
+We'd like mentors to fill out [the same form](https://docs.google.com/forms/d/12OC7RgjoBvypP1HA2yBVgG31OdCSRbW4sXHMaZec0Jo/viewform) and then submit a pull request to this repo adding your name and info to this README. We're still working out how to manage and display that list, so stay tuned for more details. (See: https://github/node-forward/issues/49)
 
 *You can always watch this repo and [the gitter channel](https://gitter.im/node-forward/mentors) for updates and to follow along with the overall mentoring conversation.
 
