@@ -2,6 +2,8 @@
 
 _Building up the node community through mentoring_
 
+![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
+
 ##### Why would I want a mentor?
 
 Are you just learning node, or looking to get started? Have you been struggling with something node-related for a while and not sure where to go next? Mentors can help! 
@@ -14,18 +16,17 @@ The idea is to provide more personal, specific support and hopefully develop hea
 
 ##### OK so what do I do?
 
-Three options:
+Fill out our short form so we can match you up with a mentor:  
+`<form url>`
 
-1. File an issue [here on the GitHub issue queue](https://github.com/node-forward/mentors/issues) and explain a problem you're having, some questions you have, etc. Make sure you note things like the language you speak, your location, or anything else you think matters to the mentor who will ultimately respond and begin to work with you.
-
-2. Ask a question on [our Gitter channel](https://gitter.im/node-forward/mentors) --a chat room that uses your GitHub login as your user account. We'll be watching that channel and responding there, hoping to pair up as we find good matches.
-
-3. `<less public method tbd>` coming soon...
+_Have a more general question about mentoring? You can always ask a question on [our Gitter channel](https://gitter.im/node-forward/mentors) or file an issue [on the GitHub issue queue](https://github.com/node-forward/mentors/issues)_
 
 
 ## Want to help mentor some people?
 
-Submit a pull request to this repo adding your name and info to the list below, and make sure you watch this repo and [the gitter channel](https://gitter.im/node-forward/mentors) for questions!
+We'd like mentors to fill out [the same form])(/#) and then submit a pull request to this repo adding your name and info to this README. We're still working out how to manage and display that list, so stay tuned for more details. (See: https://github/node-forward/issues/49)
+
+*You can always watch this repo and [the gitter channel](https://gitter.im/node-forward/mentors) for updates and to follow along with the overall mentoring conversation.
 
 ### Current Mentor List
 
@@ -50,7 +51,7 @@ Submit a pull request to this repo adding your name and info to the list below, 
 - [Nikos Gereoudakis](https://github.com/stream7) [@ni_ger](https://twitter.com/ni_ger) - based in Athens, Greece. Happy to help online or offline.
 - [Hugh Kennedy](http://github.com/hughsk) [@hughskennedy](http://twitter.com/hughskennedy) - based in Amsterdam. Primarily frontend these days and happy to help out with npm, browserify and node-powered frontend tooling.
 - [Julian Gruber](https://github.com/juliangruber) [@juliangruber](https://twitter.com/juliangruber) - based in southern Germany, happy to help with anything javascript, node, npm, browserify and leveldb.
-- [Yiyu He](https://github.com/dead-horse) [@deadhorse_busi](https://twitter.com/deadhorse_busi) - based in Hangzhou, China. Happy to help with anything online or offline.gi
+- [Yiyu He](https://github.com/dead-horse) [@deadhorse_busi](https://twitter.com/deadhorse_busi) - based in Hangzhou, China. Happy to help with anything online or offline.
 - [Jonathan Ong](https://github.com/jonathanong) [@jongleberry](https://twitter.com/jongleberry) - based in West LA, CA. Happy to talk about anything web-dev related!
 - [Adam Brady](https://github.com/SomeoneWeird) [@adam__brady](http://twitter.com/adam__brady) - Based in Melbourne, Aus. Happy to help with anything, specialise in security.
 - [Hemanth HM](http://github.com/hemanth) [@gnumanth](https://twitter.com/gnumanth) - Based in Bangalore, I'm happy to help.
