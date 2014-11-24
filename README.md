@@ -17,14 +17,14 @@ The idea is to provide more personal, specific support and hopefully develop hea
 ##### OK so what do I do?
 
 Fill out our short form so we can match you up with a mentor:  
-`<form url>`
+[Mentees register here](https://docs.google.com/forms/d/12OC7RgjoBvypP1HA2yBVgG31OdCSRbW4sXHMaZec0Jo/viewform?usp=send_form)
 
 _Have a more general question about mentoring? You can always ask a question on [our Gitter channel](https://gitter.im/node-forward/mentors) or file an issue [on the GitHub issue queue](https://github.com/node-forward/mentors/issues)_
 
 
 ## Want to help mentor some people?
 
-We'd like mentors to fill out [the same form])(/#) and then submit a pull request to this repo adding your name and info to this README. We're still working out how to manage and display that list, so stay tuned for more details. (See: https://github/node-forward/issues/49)
+We'd like mentors to fill out [the form])(https://docs.google.com/forms/d/12OC7RgjoBvypP1HA2yBVgG31OdCSRbW4sXHMaZec0Jo/viewform?usp=send_form) and then submit a pull request to this repo adding your name and info to this README. We're still working out how to manage and display that list, so stay tuned for more details. (See: https://github/node-forward/issues/49)
 
 *You can always watch this repo and [the gitter channel](https://gitter.im/node-forward/mentors) for updates and to follow along with the overall mentoring conversation.
 
@@ -68,5 +68,3 @@ We'd like mentors to fill out [the same form])(/#) and then submit a pull reques
 - [Stefan Buck](https://github.com/stefanbuck) [@buckstefan](https://twitter.com/buckstefan) - Based in Stutgart, Germany. Happy to help with Node.js tooling like Yeoman, Grunt, Gulp ... 
 
 - [Sahil Chitkara](https://github.com/sahilchitkara) [@sahilchitkara](https://twitter.com/sahilchitkara) - in India.Happy to help and discuss with anything in JS. Co-Organizer of [NodeSchool-Delhi/NCR](http://nodeschool.io/Delhi-NCR/). Awesomeness lies in open source.
-
-![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
