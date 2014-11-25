@@ -6,7 +6,7 @@ _Building up the node community through mentoring... tl;dr? [Fill out this form]
 
 ##### Why would I want a mentor?
 
-Are you just learning node, or looking to get started? Have you been struggling with something node-related for a while and not sure where to go next? Mentors can help! 
+Are you just learning node, or looking to get started? Have you been struggling with something node-related for a while and not sure where to go next? Mentors can help!
 
 Mentors can be awesome encouragement when learning gets rough. We're knowledgable, nice, and we want to help you steer through the uncharted waters of code and community.
 
@@ -64,5 +64,6 @@ We'd like mentors to fill out [the same form](https://docs.google.com/forms/d/12
 - [Hengki Sihombing](https://github.com/aredo) [@hengkiado](https://twitter.com/hengkiado) - Base in Jakarta, Indonesia. Oganizer of [JakartaJS](www.meetup.com/JakartaJS) meetup. I'm happy to help anything about Node or JavaScript.
 - [Xiuyu Li](https://github.com/nickleefly) [@nickleefly](https://twitter.com/nickleefly) - Based in Shanghai, China. Happy to help anything web
 - [Max Gfeller](https://github.com/MaxGfeller) [@mgfeller](https://twitter.com/mgfeller) - in Basel, Switzerland. Happy to discuss anything JavaScript and help beginners getting started with node + browserify.
-- [Stefan Buck](https://github.com/stefanbuck) [@buckstefan](https://twitter.com/buckstefan) - Based in Stutgart, Germany. Happy to help with Node.js tooling like Yeoman, Grunt, Gulp ... 
+- [Stefan Buck](https://github.com/stefanbuck) [@buckstefan](https://twitter.com/buckstefan) - Based in Stutgart, Germany. Happy to help with Node.js tooling like Yeoman, Grunt, Gulp ...
 - [Sahil Chitkara](https://github.com/sahilchitkara) [@sahilchitkara](https://twitter.com/sahilchitkara) - in India.Happy to help and discuss with anything in JS. Co-Organizer of [NodeSchool-Delhi/NCR](http://nodeschool.io/Delhi-NCR/). Awesomeness lies in open source.
+- [Daan van Berkel](https://github.com/dvberkel) [@daan_van_berkel](https://twitter.com/daan_van_berkel) - Nijmegen, The Netherlands. It never hurts to help
