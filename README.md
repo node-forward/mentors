@@ -58,6 +58,7 @@ We'd like mentors to fill out [the same form](https://docs.google.com/forms/d/12
 - [Alejandro Oviedo](http://github.com/a0viedo) [@a0viedo](https://twitter.com/a0viedo) - Based in Buenos Aires, Argentina. Send me all your questions!
 - [Kushal Likhi](http://github.com/kushal-likhi) [@KushalLikhi](https://twitter.com/KushalLikhi) - Based in New Delhi, India. Feel free to ping or cantact anytime if you need any help. If in Delhi/NCR we can meet over drinks and discuss too. Co-Organizer of [NodeSchool-Delhi/NCR](http://nodeschool.io/Delhi-NCR/), come be a part and let the knowledge flow.
 - [Richard Key](https://github.com/busyrich) [@busyrich](https://twitter.com/busyrich) - in Tucson, AZ. I can "mentor" anything Node or JavaScript.
+- [David Judik](https://github.com/judikdavid) [@judikdavid](https://twitter.com/judikdavid) - in Budapest, Hungary. Happy to help with your node problem :).
 - [Gergely Nemeth](https://github.com/gergelyke) [@gergelyke](https://twitter.com/nthgergo) - in Budapest, Hungary. Ping me if you are in the area or just wanna talk node.
 - [Phillip Johnsen](https://github.com/phillipj) [@phillipjohnsen](https://twitter.com/phillipjohnsen) - in Oslo, Norway. Happy to help anyone getting started with node.
 - [Maurice Butler](https://github.com/MauriceButler) [@butlermaurice](https://twitter.com/butlermaurice) - Based in Brisbane, Australia. Happy to help out with anything Node or JavaScript in general.
