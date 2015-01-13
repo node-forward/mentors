@@ -65,7 +65,6 @@ We'd like mentors to fill out [the same form](https://docs.google.com/forms/d/12
 - [Xiuyu Li](https://github.com/nickleefly) [@nickleefly](https://twitter.com/nickleefly) - Based in Shanghai, China. Happy to help anything web
 - [Max Gfeller](https://github.com/MaxGfeller) [@mgfeller](https://twitter.com/mgfeller) - in Basel, Switzerland. Happy to discuss anything JavaScript and help beginners getting started with node + browserify.
 - [Stefan Buck](https://github.com/stefanbuck) [@buckstefan](https://twitter.com/buckstefan) - Based in Stutgart, Germany. Happy to help with Node.js tooling like Yeoman, Grunt, Gulp ... 
-- 
 - [Sahil Chitkara](https://github.com/sahilchitkara) [@sahilchitkara](https://twitter.com/sahilchitkara) - in India.Happy to help and discuss with anything in JS. Co-Organizer of [NodeSchool-Delhi/NCR](http://nodeschool.io/Delhi-NCR/). Awesomeness lies in open source.
 - [Andrey Listochkin](https://github.com/listochkin) [@listochkin](https://twitter.com/listochkin) - in Kiev, Ukraine (UTC+2). I do Node and frontend, mostly focus on API design and security. Help organizing Nodeschool Kiev and tons of other meetups and conferences. One of [Kottans](http://kottans.org/).
 - [Joe Doyle](https://github.com/JoeDoyle23) [@JoeDoyle23](https://twitter.com/joedoyle23) - in Oakland, CA. Happy to help folks get started with JavaScript & Node or simply discuss architectures and issues. I'm a fan of testing.
