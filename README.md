@@ -35,7 +35,7 @@ We'd like mentors to fill out [the same form](https://docs.google.com/forms/d/12
 - [Jason Rhodes](https://github.com/jasonrhodes) - in Baltimore, MD. Also happy to help with questions, especially medium-sized ones.
 - [Matt Hernandez](https://github.com/fiveisprime) - in Cincinnati, OH. Ask me about designing and building Node.js apps and modules.
 - [Charlie Robbins](https://github.com/indexzero) - based out of New York City. Send me all your questions in gists!
-- [Benjamin Lupton](http://balupton.com) [@balupton](https://github.com/balupton) - mentoring in Sydney for vegan food and shelter
+- [Benjamin Lupton](https://github.com/balupton) [@balupton](https://twitter.com/balupton) - Based in Perth, Australia. Tweet to get things started.
 - [Mudit Ameta](https://github.com/zeusdeux) [@muditameta](https://twitter.com/muditameta) - Happy to help. If help is required in person in Bangalore, India, that can be arranged too. Just tweet at me to get things started. Happy hacking!
 - [Stephen Belanger](https://github.com/qard) [@stephenbelanger](https://twitter.com/stephenbelanger) qard on freenode - Vancouver, BC. I write instrumentation code, so I know lots about internals of things.
 - [Bryan English](https://github.com/bengl) [@bengl](https://twitter.com/bengl) - in SF Bay Area, CA. I currently focus on enterprise node things, but happy to help with anything.
